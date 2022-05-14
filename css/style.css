@@ -20,6 +20,7 @@ body {
     margin: 10px;
     min-width: 306px;
     box-sizing: border-box;
+    background: #a1a1a1;
 }
 
 .item__header {
